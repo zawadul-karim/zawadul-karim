@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1e3a5f,100:0ea5e9&text=Zawadul%20Karim&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20Machine%20learning%20enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Zawadul Karim" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1e3a5f,100:0ea5e9&text=Zawadul%20Karim&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Software%20QA%20Engineer%20%40%20Enosis%20Solutions%20%C2%B7%20Full-stack%20developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Zawadul Karim" />
 
 <a href="https://zawadul-karim.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+calm%2C+useful+web+apps;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Machine+learning+with+Python;Always+learning+something+new" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+QA+Engineer+%40+Enosis+Solutions;Building+calm%2C+useful+web+apps;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Machine+learning+with+Python;Always+learning+something+new" alt="Typing intro" />
 </a>
 
 <br/>
 
 <a href="https://zawadul-karim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/Software%20QA%20Engineer-Enosis%20Solutions-0ea5e9?style=for-the-badge&labelColor=1e293b&logo=checkmarx&logoColor=38bdf8" alt="Software QA Engineer at Enosis Solutions" />
 <img src="https://img.shields.io/badge/Bangladesh-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Bangladesh" />
 <img src="https://img.shields.io/badge/BRAC%20University-1e293b?style=for-the-badge&logo=bookstack&logoColor=38bdf8" alt="BRAC University" />
 <img src="https://komarev.com/ghpvc/?username=zawadul-karim&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
@@ -21,6 +22,7 @@
 
 ```ts
 const zawad = {
+  role: "Software QA Engineer @ Enosis Solutions Bangladesh",
   basedIn: "Bangladesh 🇧🇩",
   studied: "Computer Science & Engineering @ BRAC University",
   enjoys: ["full-stack web apps", "machine learning", "making everyday chores simpler"],
