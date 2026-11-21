@@ -11,7 +11,7 @@
 <a href="https://zawadul-karim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <img src="https://img.shields.io/badge/Bangladesh-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Bangladesh" />
 <img src="https://img.shields.io/badge/BRAC%20University-1e293b?style=for-the-badge&logo=bookstack&logoColor=38bdf8" alt="BRAC University" />
-<img src="https://komarev.com/ghpvc/?username=HypnoSphynx&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zawadul-karim&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -42,7 +42,7 @@ const zawad = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 <a href="https://github.com/HypnoSphynx/griho">Griho</a></h4>
+      <h4>🏠 <a href="https://github.com/zawadul-karim/griho">Griho</a></h4>
       An app for a shared flat's meals, grocery, deposits and monthly house bills. Members book meals from their phones, get reminder notifications, and see their bill; the admin closes each month.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -50,7 +50,7 @@ const zawad = {
       <img src="https://img.shields.io/badge/Web%20Push-0ea5e9?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/HypnoSphynx/textSecure">TextSecure</a></h4>
+      <h4>🔐 <a href="https://github.com/zawadul-karim/textSecure">TextSecure</a></h4>
       A full-stack secure messaging app: AES-256 encryption for personal data, bcrypt passwords, JWT sign-in, real-time chat, read receipts and message search.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
@@ -60,14 +60,14 @@ const zawad = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/HypnoSphynx/employee_attrition_prediction">Employee Attrition Prediction</a></h4>
+      <h4>📊 <a href="https://github.com/zawadul-karim/employee_attrition_prediction">Employee Attrition Prediction</a></h4>
       Predicts whether an employee is likely to leave, from EDA and feature engineering through to classifiers compared on precision, recall, F1 and ROC-AUC.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>✨ <a href="https://github.com/HypnoSphynx/portfolio">Portfolio</a> · <a href="https://zawadul-karim.vercel.app">live ↗</a></h4>
+      <h4>✨ <a href="https://github.com/zawadul-karim/portfolio">Portfolio</a> · <a href="https://zawadul-karim.vercel.app">live ↗</a></h4>
       My personal site: a single-page Next.js portfolio with scroll animations, glass-morphism, a collapsible sidebar and live GitHub integration.<br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -76,13 +76,13 @@ const zawad = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/HypnoSphynx/Online-Sexism-Detection">Online Sexism Detection</a></h4>
+      <h4>🧠 <a href="https://github.com/zawadul-karim/Online-Sexism-Detection">Online Sexism Detection</a></h4>
       An NLP project that classifies online text as sexist or not, built and evaluated in Jupyter notebooks.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h4>🏨 <a href="https://github.com/HypnoSphynx/TravelNest">TravelNest</a></h4>
+      <h4>🏨 <a href="https://github.com/zawadul-karim/TravelNest">TravelNest</a></h4>
       A hotel booking system with separate owner and guest sides, built for a database course with a full ER design and schema.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -93,16 +93,16 @@ const zawad = {
 ### 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HypnoSphynx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HypnoSphynx&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zawadul-karim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadul-karim&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HypnoSphynx&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=1e293b" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=zawadul-karim&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=1e293b" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HypnoSphynx&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e9&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zawadul-karim&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e9&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:1e3a5f,100:0f172a&section=footer" width="100%" alt="" />
