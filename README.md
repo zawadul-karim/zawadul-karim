@@ -92,19 +92,6 @@ const zawad = {
   </tr>
 </table>
 
-### 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zawadul-karim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawadul-karim&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zawadul-karim&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=1e293b" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zawadul-karim&bg_color=0d1117&color=c9d1d9&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e9&hide_border=true" alt="Contribution graph" width="100%" />
-</p>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,50:1e3a5f,100:0f172a&section=footer" width="100%" alt="" />
